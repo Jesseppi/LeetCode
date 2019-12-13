@@ -1,0 +1,11 @@
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/bin/Debug/netcoreapp2.2/preOrderTraversal.deps.json
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/bin/Debug/netcoreapp2.2/preOrderTraversal.runtimeconfig.json
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/bin/Debug/netcoreapp2.2/preOrderTraversal.runtimeconfig.dev.json
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/bin/Debug/netcoreapp2.2/preOrderTraversal.dll
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/bin/Debug/netcoreapp2.2/preOrderTraversal.pdb
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/obj/Debug/netcoreapp2.2/preOrderTraversal.csprojAssemblyReference.cache
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/obj/Debug/netcoreapp2.2/preOrderTraversal.csproj.CoreCompileInputs.cache
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/obj/Debug/netcoreapp2.2/preOrderTraversal.AssemblyInfoInputs.cache
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/obj/Debug/netcoreapp2.2/preOrderTraversal.AssemblyInfo.cs
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/obj/Debug/netcoreapp2.2/preOrderTraversal.dll
+/Users/jessec/git/LeetCode/BinaryTree/preOrderTraversal/obj/Debug/netcoreapp2.2/preOrderTraversal.pdb
