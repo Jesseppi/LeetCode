@@ -1,0 +1,9 @@
+/Users/jessec/git/LeetCode/utility classes/TreeNode/bin/Debug/netstandard2.0/TreeNode.deps.json
+/Users/jessec/git/LeetCode/utility classes/TreeNode/bin/Debug/netstandard2.0/TreeNode.dll
+/Users/jessec/git/LeetCode/utility classes/TreeNode/bin/Debug/netstandard2.0/TreeNode.pdb
+/Users/jessec/git/LeetCode/utility classes/TreeNode/obj/Debug/netstandard2.0/TreeNode.csprojAssemblyReference.cache
+/Users/jessec/git/LeetCode/utility classes/TreeNode/obj/Debug/netstandard2.0/TreeNode.csproj.CoreCompileInputs.cache
+/Users/jessec/git/LeetCode/utility classes/TreeNode/obj/Debug/netstandard2.0/TreeNode.AssemblyInfoInputs.cache
+/Users/jessec/git/LeetCode/utility classes/TreeNode/obj/Debug/netstandard2.0/TreeNode.AssemblyInfo.cs
+/Users/jessec/git/LeetCode/utility classes/TreeNode/obj/Debug/netstandard2.0/TreeNode.dll
+/Users/jessec/git/LeetCode/utility classes/TreeNode/obj/Debug/netstandard2.0/TreeNode.pdb

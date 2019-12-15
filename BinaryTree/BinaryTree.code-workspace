@@ -2,7 +2,15 @@
 	"folders": [
 		{
 			"path": "preOrderTraversal"
+		},
+		{
+			"path": "inOrderTraversal"
+		},
+		{
+			"path": "postOrderTraversal"
+		},
+		{
+			"path": "/Users/jessec/git/LeetCode/utility classes"
 		}
-	],
-	"settings": {}
+	]
 }

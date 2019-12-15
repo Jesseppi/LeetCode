@@ -1,0 +1,17 @@
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/obj/Debug/netcoreapp2.2/postOrderTraversal.csprojAssemblyReference.cache
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/obj/Debug/netcoreapp2.2/postOrderTraversal.csproj.CoreCompileInputs.cache
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/obj/Debug/netcoreapp2.2/postOrderTraversal.AssemblyInfoInputs.cache
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/obj/Debug/netcoreapp2.2/postOrderTraversal.AssemblyInfo.cs
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/bin/Debug/netcoreapp2.2/postOrderTraversal.deps.json
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/bin/Debug/netcoreapp2.2/postOrderTraversal.runtimeconfig.json
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/bin/Debug/netcoreapp2.2/postOrderTraversal.runtimeconfig.dev.json
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/bin/Debug/netcoreapp2.2/postOrderTraversal.dll
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/bin/Debug/netcoreapp2.2/postOrderTraversal.pdb
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/bin/Debug/netcoreapp2.2/TreeNode.dll
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/bin/Debug/netcoreapp2.2/TreeNode.pdb
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/obj/Debug/netcoreapp2.2/postOrderTraversal.csproj.CopyComplete
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/obj/Debug/netcoreapp2.2/postOrderTraversal.dll
+/Users/jessec/git/LeetCode/BinaryTree/postOrderTraversal/obj/Debug/netcoreapp2.2/postOrderTraversal.pdb
