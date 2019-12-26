@@ -4,7 +4,6 @@ using TreeNode;
 
 namespace postOrderTraversal
 {
-    
 
     public static class Solution
     {
