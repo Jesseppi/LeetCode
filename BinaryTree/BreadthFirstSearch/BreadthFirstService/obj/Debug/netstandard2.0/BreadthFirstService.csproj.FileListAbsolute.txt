@@ -1,0 +1,12 @@
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/bin/Debug/netstandard2.0/BreadthFirstService.deps.json
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/bin/Debug/netstandard2.0/BreadthFirstService.dll
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/bin/Debug/netstandard2.0/BreadthFirstService.pdb
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/bin/Debug/netstandard2.0/TreeNode.dll
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/bin/Debug/netstandard2.0/TreeNode.pdb
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/obj/Debug/netstandard2.0/BreadthFirstService.csprojAssemblyReference.cache
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/obj/Debug/netstandard2.0/BreadthFirstService.csproj.CoreCompileInputs.cache
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/obj/Debug/netstandard2.0/BreadthFirstService.AssemblyInfoInputs.cache
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/obj/Debug/netstandard2.0/BreadthFirstService.AssemblyInfo.cs
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/obj/Debug/netstandard2.0/BreadthFirstService.csproj.CopyComplete
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/obj/Debug/netstandard2.0/BreadthFirstService.dll
+/Users/jessec/git/LeetCode/BinaryTree/BreadthFirstSearch/BreadthFirstService/obj/Debug/netstandard2.0/BreadthFirstService.pdb
